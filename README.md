@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 I'm an experienced Java and Spring developer with over a decade of backend know-how. I'm all about mixing things up, from diving into React for frontend magic to mastering AWS for cloud computing. My mission? Crafting code that's not just scalable and maintainable but downright efficient. And hey, I'm always on the lookout for new ways to learn and grow. Let's build something awesome together! 🚀
 
 LinkedIn: https://www.linkedin.com/in/andra-durdun/
+
 Email: andra.durdun@gmail.com
+
+
